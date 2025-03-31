@@ -35,6 +35,8 @@ Using big data for evaluating development outcomes : a systematic map
 [Download Paper](https://cedilprogramme.org/publications/cedil-methods-working-paper-2/)
 
 **Abstract:** Policy makers need access to reliable data to monitor and evaluate the progress of development outcomes and targets such as sustainable development outcomes (SDGs). However, significant data and evidence gaps remain. Big data—that is digitally generated, passively produced and automatically collected—offers a great potential for answering some of the data needs. Integrating big data with the traditional household surveys and administrative data can complement data availability, quality, granularity, accuracy and frequency, and help measure development outcomes temporally and spatially in a number of new ways.The study maps different sources of big data onto development outcomes (based on SDGs) to identify current evidence base, use and the gaps. The map provides a visual overview of existing and ongoing studies. This study also discusses the risks, biases and ethical challenges in using big data for measuring and evaluating development outcomes. The study is a valuable resource for evaluators, researchers, funders, policymakers and practitioners in their effort to contribute to evidence informed policy making and in achieving the SDGs.
+
+
 Work in Progress
 ======
 
