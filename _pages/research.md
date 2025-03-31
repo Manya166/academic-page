@@ -50,3 +50,5 @@ Social Emotional Learning and Educational Outcomes : Impact of Happiness Curricu
 
 **Abstract:** In 2019, Happiness Curriculum was launched by the government in Uttarakhand, a state located in northern part of India. With heavy emphasis on holistic development and critical thinking, this curriculum has gained immense popularity and is becoming a model that other states in India are planning to replicate. This paper investigates potential downstream effects of these investments, in terms of enrolment and learning outcomes. Does the introduction of this curriculum lead to improvement in academic learning? Does increased participation in classroom and better relationship with teachers motivate students to attend school? To answer these questions, I exploit the variation in treatment across different cohorts and states.
 
+Formal Banking, Microfinance and Social Capital 
+------
