@@ -12,7 +12,7 @@ I am a 5th year PhD Economics Candidate at [University of Washington, Seattle](h
 
 I hold a Masters in Economics from the Delhi School of Economics and an undergraduate degree in Economics from University of Delhi. I previously worked as a Research Associate at International Initiative for Impact Evaluation, New Delhi and Reserve Bank of India and as a Statistical Analyst at Walmart Labs.
 
-**Primary fields:** Development Economics, Education Economics, Gender Economics  
+**Primary fields:** Development Economics, Education Economics   
 **Secondary fields:** Health Economics, Econometrics
 
 **References**: [Alan Griffith](https://sites.google.com/site/alangriffithecon/), [David Bloom](https://hsph.harvard.edu/profile/david-bloom/), [Rachel Heath](https://faculty.washington.edu/rmheath/)
